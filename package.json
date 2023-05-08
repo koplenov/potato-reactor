@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "fastify": "^4.17.0"
+  }
+}
